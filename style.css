@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+.block-elem {
+  border: 5px solid black;
+  display: block;
+  padding: 10px;
+  margin: 0;
+  padding: 5px;;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+image {
+  width: 100px;
+  height: 100px;
+}
+h2 {
+  text-transform: uppercase;
+  background-color: rgb(235, 230, 230);
+  margin: 0;
+  text-align: center;
+  padding: 15px;
+}
+.price {
+  font-size: large;
+  font-weight: bold;
+}
+.price__shippment-details {
+  font-size: 12px;
+  font-weight: bold;
+  color: gray;
+  text-transform: uppercase;
+}
+.product-details {
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+}
+a:visited {
+  color: black;
+  padding: 10px;
+}
+
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  width: 98%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 15px;
+}
